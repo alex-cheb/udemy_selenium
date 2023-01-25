@@ -2,6 +2,7 @@
     "java.dependency.packagePresentation": "hierarchical",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Software\\selenium-server-4.7.2.jar"
+        "c:\\Software\\selenium-server-4.7.2.jar",
+        "c:\\Software\\junit-platform-console-standalone-1.7.0-M1.jar"
     ]
 }
